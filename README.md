@@ -1,4 +1,4 @@
-# LAB-C2
+# Universisdad Mariano Galvez- Emprendimiento Innovacion Y Proyectos - Francisco Josue Mendez Suriano 091-14-9796
 Laboratorio C2 
 # Análisis de circuitos con compuertas digitales, seáles en el tiempo, Glitches en Circuitos Lógicos
 
